@@ -1,2 +1,2 @@
 # FrontendMentor-repo
- My attempts at FrontendMentor Challenges
+FrontendMentor Challenges
